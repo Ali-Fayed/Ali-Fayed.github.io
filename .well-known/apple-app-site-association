@@ -2,11 +2,11 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "GY5GDJ28B9.com.fixedSolution.ncedc" ,"GY5GDJ28B9.com.di.AutoPassword-iOS12" ]
+             "appIDs": [ "GY5GDJ28B9.com.fixedSolution.ncedc" ,"GY5GDJ28B9.com.di.AutoooPassword-iOS12" ]
            }
        ]
    },
    "webcredentials": {
-      "apps": [ "GY5GDJ28B9.com.fixedSolution.ncedc" ,"GY5GDJ28B9.com.di.AutoPassword-iOS12" ]
+      "apps": [ "GY5GDJ28B9.com.fixedSolution.ncedc" ,"GY5GDJ28B9.com.di.AutoooPassword-iOS12" ]
    }
 }
