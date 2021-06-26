@@ -3,10 +3,10 @@
     "apps": [],
     "details": [
     {
-      "appID": "GY5GDJ28B9.com.fixedSolution.ncedc"
+      "appID": "GY5GDJ28B9.com.fixedmea.eehc"
     },
    "webcredentials": {
-      "apps": ["GY5GDJ28B9.com.fixedSolution.ncedc" ,"DF8RRTTKDY.com.fixedSolution.ncedc"]
+      "apps": ["GY5GDJ28B9.com.fixedmea.eehc" ,"DF8RRTTKDY.com.fixedmea.eehc"]
    }
     ]
   }
