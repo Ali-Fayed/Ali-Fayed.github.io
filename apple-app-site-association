@@ -3,7 +3,8 @@
     "apps": [],
     "details": [
     {
-      "appID": "GY5GDJ28B9.com.fixedmea.eehc"
+      "appID": "GY5GDJ28B9.com.fixedmea.eehc",
+      "paths": ["/ali/*"]
     },
    "webcredentials": {
       "apps": ["GY5GDJ28B9.com.fixedmea.eehc" ,"DF8RRTTKDY.com.fixedmea.eehc"]
