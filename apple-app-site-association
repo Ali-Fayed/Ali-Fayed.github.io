@@ -4,7 +4,7 @@
     "details": [
     {
       "appID": "GY5GDJ28B9.com.fixedmea.eehc",
-      "paths": ["/login/*"]
+      "paths": ["/login"]
     },
    "webcredentials": {
       "apps": ["GY5GDJ28B9.com.fixedmea.eehc" ,"DF8RRTTKDY.com.fixedmea.eehc"]
